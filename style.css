@@ -1,0 +1,44 @@
+p { 
+	color: green; 
+	font-size: 20px; 
+} 
+h2 {
+	color: red;
+}
+
+.parrafo0{
+	color: blue;
+}
+
+#disenioX {
+	display: flex;
+	justify-content: flex-end;
+	color: orange;
+	background-color: black;
+}
+
+.parah3{
+	
+	box-shadow: -10px -15px 20px cyan; 
+	padding: 20px; 
+	border: 5px solid black; 
+	margin: 30px; 
+	background-color: lightblue;
+	border-radius: 50% 80% 50% 80%;
+}
+.parah3:hover {
+	transform: rotateX(360deg);
+	transition: 5s;
+}
+
+#seccion1 {
+	background-color: pink;
+	display: flex;
+	justify-content: space-evenly;
+}
+#bloque1{
+	background-color: rgb(155, 155, 155);
+}
+#bloque2{
+	background-color: #FFEE8C;
+}
