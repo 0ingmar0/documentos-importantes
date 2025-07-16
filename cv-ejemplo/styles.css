@@ -77,7 +77,8 @@ accent-color));
  
 .hero-image img { 
   width: 300px; 
-  border-radius: 50%; 
+  border-radius: 20px; 
+  box-shadow: 10px 10px 40px rgb(0, 0, 0);
   border: 5px solid white; 
 } 
  
@@ -169,7 +170,7 @@ section h2 {
 } 
  
 .cert img { 
-  width: 100%; 
+  width: 100px; 
   border-radius: var(--border-radius); 
   box-shadow: 0 0 10px rgba(0,0,0,0.2); 
 } 
@@ -215,3 +216,12 @@ footer {
     width: 200px; 
   } 
 } 
+
+#saludo{
+  color: black;
+}
+
+#descript{
+  color: black;
+}
+
